@@ -70,25 +70,22 @@ I'm a full-stack developer passionate about integrating complex business operati
 
 ---
 
-## 🔌 Integration Expertise: **MuleSoft**
-
+## 🔌 Integration Expertise
 ### Enterprise API & Integration Platform
 
-I have hands-on experience with **MuleSoft Anypoint Platform**, a leading enterprise integration platform (iPaaS) for connecting applications, data, and devices:
-
-**MuleSoft Expertise:**
-- 🎯 **Mule ESB** - Building enterprise service buses and integration flows
-- 🔗 **API Management** - Designing, deploying, and managing APIs at scale
+I have hands-on experience with a leading **Enterprise Integration Platform (iPaaS)**, helping connect applications, data, and devices across the enterprise:
+- 🎯 **Service Bus & Integration Runtime** - Building enterprise service buses and integration flows
+- 🔗 **API Gateway & Management** - Designing, deploying, and managing APIs at scale
 - 📊 **Integration Flows** - Complex data transformation and orchestration
 - 🔐 **Security & Governance** - API security, OAuth, mTLS, and access control
-- 📈 **Analytics & Monitoring** - Anypoint monitoring, runtime manager, log aggregation
+- 📈 **Monitoring & Analytics** - Platform monitoring, runtime metrics, and log aggregation
 - 🌐 **Connectors** - 800+ pre-built connectors (Salesforce, SAP, Oracle, Databases, etc.)
 
 **Key Capabilities:**
 - Design and deploy cloud-based and on-premises integrations
 - Build RESTful and SOAP APIs with comprehensive governance
 - Real-time data synchronization across enterprise systems
-- Event-driven architecture with Anypoint MQ
+- Event-driven architecture with message queuing & pub/sub messaging
 - API versioning, lifecycle management, and rate limiting
 
 **Industry Applications:**
@@ -97,8 +94,7 @@ I have hands-on experience with **MuleSoft Anypoint Platform**, a leading enterp
 - Hybrid cloud integration strategies
 - B2B partner ecosystems
 
-MuleSoft complements IntegrateWise by providing enterprise-grade integration patterns and proven integration best practices.
-
+This integration platform expertise complements IntegrateWise by providing enterprise-grade integration patterns and proven architectural best practices.
 ---
 
 ## 📱 Connect With Me
