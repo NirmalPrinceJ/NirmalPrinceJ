@@ -70,6 +70,37 @@ I'm a full-stack developer passionate about integrating complex business operati
 
 ---
 
+## 🔌 Integration Expertise: **MuleSoft**
+
+### Enterprise API & Integration Platform
+
+I have hands-on experience with **MuleSoft Anypoint Platform**, a leading enterprise integration platform (iPaaS) for connecting applications, data, and devices:
+
+**MuleSoft Expertise:**
+- 🎯 **Mule ESB** - Building enterprise service buses and integration flows
+- 🔗 **API Management** - Designing, deploying, and managing APIs at scale
+- 📊 **Integration Flows** - Complex data transformation and orchestration
+- 🔐 **Security & Governance** - API security, OAuth, mTLS, and access control
+- 📈 **Analytics & Monitoring** - Anypoint monitoring, runtime manager, log aggregation
+- 🌐 **Connectors** - 800+ pre-built connectors (Salesforce, SAP, Oracle, Databases, etc.)
+
+**Key Capabilities:**
+- Design and deploy cloud-based and on-premises integrations
+- Build RESTful and SOAP APIs with comprehensive governance
+- Real-time data synchronization across enterprise systems
+- Event-driven architecture with Anypoint MQ
+- API versioning, lifecycle management, and rate limiting
+
+**Industry Applications:**
+- Digital transformation initiatives
+- System modernization and legacy system integration
+- Hybrid cloud integration strategies
+- B2B partner ecosystems
+
+MuleSoft complements IntegrateWise by providing enterprise-grade integration patterns and proven integration best practices.
+
+---
+
 ## 📱 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nirmalprincej)
