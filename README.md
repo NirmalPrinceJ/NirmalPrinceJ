@@ -1,118 +1,53 @@
-# 👋 Hey, I'm Nirmal Prince J
+# Hi, I’m Nirmal
 
-**Building enterprise-grade AI automation platforms and cloud-native systems**
+I’m building **Spine Workspace** — the business-context workspace where humans and AI work together.
 
-I'm a full-stack developer passionate about integrating complex business operations through automation, AI, and scalable architecture. I specialize in creating platforms that normalize data across 15+ SaaS tools using real-time webhooks and intelligent processing.
+Most business work is scattered across CRM, support tools, documents, messages, project systems, and many other applications. Before people can make progress, they often have to reconstruct what happened, what matters, who owns the next step, and what has already been decided.
 
----
+I believe AI should not become another disconnected interface or replace human accountability.
 
-## 🚀 Featured Project: **IntegrateWise**
+It should work alongside people from the same shared business context.
 
-### Enterprise AI Automation Platform
+> **Humans govern the business. AI helps the business work.**
 
-[IntegrateWise](https://github.com/NirmalPrinceJ/integratewise) is my flagship project - a closed-loop AI automation system that orchestrates business operations across multiple SaaS platforms.
+## What I’m building
 
-**Architecture Highlights:**
-- 🧠 **Multi-AI Intelligence** - Claude, ChatGPT, Gemini, Perplexity, NotebookLM
-- 🔄 **Real-time Webhooks** - 15 integrated providers (HubSpot, Salesforce, Stripe, GitHub, etc.)
-- 📊 **Unified Hub Dashboard** - Vercel-deployed command center
-- 🔐 **Enterprise Security** - Cloudflare Workers, encrypted secrets
-- ⚡ **Serverless Stack** - Next.js, Hono, Neon PostgreSQL
+**Spine Workspace** brings people, AI, and the context around their business into one shared workspace.
 
-**Key Stats:**
-- 7-layer intelligent architecture
-- 263-line comprehensive README
-- Closed-loop feedback automation
-- Multi-model AI orchestration
+It helps teams:
 
-[Explore the Project](https://github.com/NirmalPrinceJ/integratewise) • [Live Demo](https://integratewise-hub.vercel.app)
+- Understand customers, goals, relationships, work, decisions, evidence, and outcomes in context
+- Reduce the time lost rebuilding the story across disconnected tools
+- Let AI prepare, coordinate, analyze, and handle authorized repetitive work
+- Keep people responsible for judgment, commitments, approvals, and consequential decisions
+- Preserve the context and evidence needed for work to continue
 
----
+## The idea behind Spine
 
-## 💼 Tech Stack
+AI can be genuinely useful in business only when it understands the relevant context, operates within clear authority boundaries, and returns verified outcomes—not just responses.
 
-**Frontend:**
-- Next.js, React, TypeScript
-- Tailwind CSS, Shadcn/ui
+Spine Workspace is being built around that principle:
 
-**Backend:**
-- Node.js, Express, Hono
-- Cloudflare Workers, Vercel Functions
-- PostgreSQL, MongoDB
+- **Spine Workbench** — where people work
+- **Spine Twin** — a context-aware AI counterpart
+- **Spine Fabric** — the governed business context connecting goals, work, evidence, relationships, and outcomes
+- **Spine Marketplace** — capabilities that connect the systems teams already use
 
-**Cloud & DevOps:**
-- Vercel, Cloudflare, AWS
-- Docker, GitHub Actions
-- Wrangler CLI
+## Current focus
 
-**AI & Integrations:**
-- OpenAI, Anthropic (Claude), Google AI
-- HubSpot, Salesforce, Stripe APIs
-- Notion, Box, GitHub APIs
+I’m focused on building a practical human–AI workspace that helps organizations keep work moving without losing the business story between systems.
+
+The goal is simple:
+
+> **Shared business context. Collaborative work between humans and AI.**
+
+## Connect
+
+I’m interested in conversations with builders, operators, design partners, and researchers working on AI, business software, organizational intelligence, workflows, and the future of work.
+
+
+
 
 ---
 
-## 📈 What I'm Currently Working On
-
-- 🔄 Expanding IntegrateWise with more AI models and integrations
-- 🤖 Building advanced webhook processing pipelines
-- 📱 Creating mobile-first dashboard interfaces
-- 🔐 Implementing zero-trust security architecture
-
----
-
-## 🎯 About Me
-
-- **Location:** India
-- **Focus:** Enterprise Automation, AI Integration, Cloud Architecture
-- **Philosophy:** Build systems that scale, simplify operations, and leverage AI intelligently
-- **Open to:** Collaborations, mentoring, and interesting projects
-
----
-
-## 🔌 Integration Expertise
-### Enterprise API & Integration Platform
-
-I have hands-on experience with a leading **Enterprise Integration Platform (iPaaS)**, helping connect applications, data, and devices across the enterprise:
-- 🎯 **Service Bus & Integration Runtime** - Building enterprise service buses and integration flows
-- 🔗 **API Gateway & Management** - Designing, deploying, and managing APIs at scale
-- 📊 **Integration Flows** - Complex data transformation and orchestration
-- 🔐 **Security & Governance** - API security, OAuth, mTLS, and access control
-- 📈 **Monitoring & Analytics** - Platform monitoring, runtime metrics, and log aggregation
-- 🌐 **Connectors** - 800+ pre-built connectors (Salesforce, SAP, Oracle, Databases, etc.)
-
-**Key Capabilities:**
-- Design and deploy cloud-based and on-premises integrations
-- Build RESTful and SOAP APIs with comprehensive governance
-- Real-time data synchronization across enterprise systems
-- Event-driven architecture with message queuing & pub/sub messaging
-- API versioning, lifecycle management, and rate limiting
-
-**Industry Applications:**
-- Digital transformation initiatives
-- System modernization and legacy system integration
-- Hybrid cloud integration strategies
-- B2B partner ecosystems
-
-This integration platform expertise complements IntegrateWise by providing enterprise-grade integration patterns and proven architectural best practices.
----
-
-## 📱 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nirmalprincej)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/nirmalprincej)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmalprincejohn@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirmalPrinceJ&show_icons=true&theme=github_dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalPrinceJ&theme=github_dark&layout=compact)
-
----
-
-*Last updated: December 15, 2025*
-
-**Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration.** 🚀
+*Building for a world where people and AI can work together with context, clarity, and accountability.*
