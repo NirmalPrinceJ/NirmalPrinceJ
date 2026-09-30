@@ -1,53 +1,41 @@
-# Hi, I’m Nirmal
+# Hi, I’m Nirmal Prince John
 
-I’m building **Spine Workspace** — the business-context workspace where humans and AI work together.
+I’m the founder of **[Spine InnovLabs](https://github.com/spineinnovlabs)**, building **[SpineWorkspace](https://spineworkspace.com)** — the business-context workspace where humans and AI work together.
 
-Most business work is scattered across CRM, support tools, documents, messages, project systems, and many other applications. Before people can make progress, they often have to reconstruct what happened, what matters, who owns the next step, and what has already been decided.
+Most business work is fragmented across CRM, support tools, documents, messages, project systems, and many other applications. People repeatedly have to reconstruct the story: what happened, what matters, who owns the next step, and what has already been decided.
 
-I believe AI should not become another disconnected interface or replace human accountability.
-
-It should work alongside people from the same shared business context.
+I’m building toward a different way of working: humans and AI operating from the same governed business context.
 
 > **Humans govern the business. AI helps the business work.**
 
 ## What I’m building
 
-**Spine Workspace** brings people, AI, and the context around their business into one shared workspace.
+SpineWorkspace helps organizations:
 
-It helps teams:
+- Bring business context together across the tools they already use
+- Give humans and AI a shared understanding of goals, customers, relationships, work, decisions, evidence, and outcomes
+- Let AI reduce repetitive, analytical, and coordination-heavy work within clear authority boundaries
+- Keep humans responsible for judgment, commitments, approvals, and accountability
+- Preserve context so work can continue without rebuilding the business story every time it moves
 
-- Understand customers, goals, relationships, work, decisions, evidence, and outcomes in context
-- Reduce the time lost rebuilding the story across disconnected tools
-- Let AI prepare, coordinate, analyze, and handle authorized repetitive work
-- Keep people responsible for judgment, commitments, approvals, and consequential decisions
-- Preserve the context and evidence needed for work to continue
-
-## The idea behind Spine
-
-AI can be genuinely useful in business only when it understands the relevant context, operates within clear authority boundaries, and returns verified outcomes—not just responses.
-
-Spine Workspace is being built around that principle:
+## The product
 
 - **Spine Workbench** — where people work
-- **Spine Twin** — a context-aware AI counterpart
-- **Spine Fabric** — the governed business context connecting goals, work, evidence, relationships, and outcomes
-- **Spine Marketplace** — capabilities that connect the systems teams already use
-
-## Current focus
-
-I’m focused on building a practical human–AI workspace that helps organizations keep work moving without losing the business story between systems.
-
-The goal is simple:
+- **Spine Twin** — the context-aware AI counterpart
+- **Spine Fabric** — the governed business-context foundation
+- **Spine Marketplace** — integrations, capabilities, and connected systems
 
 > **Shared business context. Collaborative work between humans and AI.**
 
 ## Connect
 
-I’m interested in conversations with builders, operators, design partners, and researchers working on AI, business software, organizational intelligence, workflows, and the future of work.
+I’m interested in conversations with builders, operators, design partners, researchers, and teams working on AI, business software, organizational intelligence, and the future of work.
 
-
-
+- Website: [nirmalprince.com](https://www.nirmalprince.com)
+- LinkedIn: [Nirmal Prince John](https://www.linkedin.com/in/nirmalprince-john/)
+- Medium: [nirmalprincej.medium.com](https://nirmalprincej.medium.com/)
+- Product: [spineworkspace.com](https://spineworkspace.com)
 
 ---
 
-*Building for a world where people and AI can work together with context, clarity, and accountability.*
+*Building a future where people and AI can work together with shared context, clarity, and accountability.*
