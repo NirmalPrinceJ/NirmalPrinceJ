@@ -56,7 +56,7 @@ These are functional prototypes and component proofs — **not the complete end-
 
 I’m interested in conversations with builders, operators, researchers, and potential design partners working on business software, AI collaboration, organizational memory, and governed execution.
 
-- Website: [nirmalprince.com](https://www.nirmalprince.com)
+
 - LinkedIn: [Nirmal Prince John](https://www.linkedin.com/in/nirmalprince-john/)
 - Medium: [nirmalprincej.medium.com](https://nirmalprincej.medium.com/)
 - Product: [spineworkspace.com](https://spineworkspace.com)
